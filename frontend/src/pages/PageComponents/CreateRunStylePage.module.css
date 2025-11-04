@@ -1,0 +1,20 @@
+.createRun {
+    background: linear-gradient(rgba(0,0,0,0), rgba(0,0,0,0)),
+    url(./images/CreatePageRunningImage.png);
+    margin: 0;
+    padding: 0;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+  }
+
+  .create-run-container {
+    background-color: rgba(255, 255, 255, 0.5);
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+  }

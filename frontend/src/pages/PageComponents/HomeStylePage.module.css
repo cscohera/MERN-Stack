@@ -1,0 +1,8 @@
+.home {
+    background: linear-gradient(rgba(0,0,0,0), rgba(0,0,0,0)),
+    url(./images/HomePageRunningImage.png);
+    margin: 0;
+    padding: 0;
+    background-size: cover;
+    min-height: 100vh;
+  }
