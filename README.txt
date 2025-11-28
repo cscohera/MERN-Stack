@@ -12,7 +12,7 @@ Backend
 http://localhost:8080/
 cd Backend
 
-If .env is inaccessable create a .env file in the frontend directory with these lines 
+If .env is inaccessable create a .env file in the backend directory with these lines 
 PORT=8080
 MONGO_URI=mongodb://localhost:27017/Running
 
